@@ -18,7 +18,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/mhuaco/Tyk-mdcb-Terraform.git
-cd terraform-tyk-mdcb
+cd Tyk-mdcb-Terraform
 ```
 ### 2. Initialize Terraform
 Run the following command to initialize the Terraform workspace. This will download the necessary provider plugins and set up the working directory for Terraform.
