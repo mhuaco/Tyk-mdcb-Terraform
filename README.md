@@ -17,7 +17,7 @@ Before starting, ensure the following tools and configurations are set up on you
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/terraform-tyk-mdcb.git
+git clone https://github.com/mhuaco/Tyk-mdcb-Terraform.git
 cd terraform-tyk-mdcb
 ```
 ### 2. Initialize Terraform
